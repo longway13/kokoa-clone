@@ -11,6 +11,13 @@
     align-items: center;
     justify-content: flex-start;
     width: 25%;
+    border-radius: 20px;
+}
+.icon-row__icon:hover {
+    background-color: rgb(200, 222, 239);
+}
+.invisible:hover {
+    opacity: 0;
 }
 .icon-row__icon i {
     font-size: 40px;
